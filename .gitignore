@@ -1,0 +1,21 @@
+node_modules/
+dist/
+out/
+temp/
+tmp/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User materials should not be committed.
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.mp4
+*.ild.json
+
