@@ -2,6 +2,8 @@
 
 This repository hosts the Web / iPad Trainer for **Intensive Listening Desk**.
 
+Current release: v1.0.1
+
 It is a static browser app designed for focused English listening practice on iPad, tablets, and desktop browsers.
 
 ## What It Does
@@ -42,4 +44,3 @@ This repository is intended to be deployed with GitHub Pages:
 - Source: Deploy from a branch
 - Branch: `main`
 - Folder: `/root`
-
